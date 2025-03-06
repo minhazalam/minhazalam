@@ -34,9 +34,11 @@ I’ve worked on numerous projects ranging from data warehouse architecture to r
 ## 📈 GitHub Profile Stats
 ![Profile views](https://komarev.com/ghpvc/?username=minhazalam&color=blue&style=flat-square)  
 *Visitors to my GitHub profile!*
-
+<!--
 ## 🌐 Get In Touch
-Feel free to connect with me or explore collaboration opportunities:
+Feel free to connect with me or explore collaboration opportunities:-->
+## 🌟 Availability
+I am available for **full-time**, **part-time**, or **freelance** **remote** data engineering roles. If you're looking for a dedicated professional with a passion for data and cloud technologies, feel free to reach out to me at:
 - 📧 Email: [minhazalam365@gmail.com](mailto:minhazalam365@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alam)
 
