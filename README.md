@@ -17,10 +17,9 @@ With a strong background in both data engineering and cloud technologies, here a
 - **Cloud Platforms**: Microsoft Azure
 - **Scheduling & Orchestration**: Control-M, Apache Airflow
 - **Databases**: PostgreSQL, MySQL
-- **ETL & Data Integration**: Building efficient, scalable ETL pipelines for structured and unstructured data
-
+<!--
 ## 💡 Projects & Experience
-I’ve worked on numerous projects ranging from data warehouse architecture to real-time data processing using cloud platforms. My goal is always to design solutions that scale with the needs of the business while maintaining a high standard of performance and reliability.
+I’ve worked on numerous projects ranging from data warehouse architecture to real-time data processing using cloud platforms. My goal is always to design solutions that scale with the needs of the business while maintaining a high standard of performance and reliability.-->
 
 ## 📈 GitHub Profile Stats
 ![Profile views](https://komarev.com/ghpvc/?username=minhazalam&color=blue&style=flat-square)  
@@ -28,7 +27,7 @@ I’ve worked on numerous projects ranging from data warehouse architecture to r
 
 ## 🌐 Get In Touch
 Feel free to connect with me or explore collaboration opportunities:
-- 📧 Email: [minhazalam@example.com](mailto:minhazalam@example.com)
+- 📧 Email: [minhazalam@example.com](mailto:minhazalam365@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alam)
 
 ## 🛠️ Technologies & Tools
