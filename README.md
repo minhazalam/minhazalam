@@ -4,10 +4,13 @@ Welcome to my GitHub! I’m a **Data Engineer** who is passionate about transfor
 
 ## 🚀 About Me
 - **Name**: Minhaz Alam
-- **Email**: [minhazalam@example.com](mailto:minhazalam@example.com)
+- **Email**: [minhazalam365@gmail.com](mailto:minhazalam365@gmail.com)
 - **Location**: Dharamshala, Himachal Pradesh, India
 - **Passion**: Empowering businesses through robust data solutions and cloud technologies.
 - **Current Role**: Data Engineer with hands-on experience in data architecture, ETL processes, and cloud platforms.
+
+## 🎯 Certifications
+I am currently working on getting certified in **Databricks Data Engineer Associate** to further sharpen my skills and stay updated with modern data engineering practices.
 
 ## 💼 Skills & Expertise
 With a strong background in both data engineering and cloud technologies, here are the areas where I excel:
@@ -21,13 +24,20 @@ With a strong background in both data engineering and cloud technologies, here a
 ## 💡 Projects & Experience
 I’ve worked on numerous projects ranging from data warehouse architecture to real-time data processing using cloud platforms. My goal is always to design solutions that scale with the needs of the business while maintaining a high standard of performance and reliability.-->
 
+<!--
+## 📂 Projects
+- Project Name: Description goes here. [GitHub Repository](https://github.com/minhazalam/project-repo)
+- More projects will be added here when completed.
+
+-->
+
 ## 📈 GitHub Profile Stats
 ![Profile views](https://komarev.com/ghpvc/?username=minhazalam&color=blue&style=flat-square)  
 *Visitors to my GitHub profile!*
 
 ## 🌐 Get In Touch
 Feel free to connect with me or explore collaboration opportunities:
-- 📧 Email: [minhazalam@example.com](mailto:minhazalam365@gmail.com)
+- 📧 Email: [minhazalam365@gmail.com](mailto:minhazalam365@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alam)
 
 ## 🛠️ Technologies & Tools
