@@ -10,7 +10,14 @@ Welcome to my GitHub! I’m a **Data Engineer** who is passionate about transfor
 - **Current Role**: Data Engineer with hands-on experience in data architecture, ETL processes, and cloud platforms.
 
 ## 🎯 Certifications
-I am currently working on getting certified in **Databricks Data Engineer Associate** to further sharpen my skills and stay updated with modern data engineering practices.
+<!--I am currently working on getting certified in **Databricks Data Engineer Associate** to further sharpen my skills and stay updated with modern data engineering practices.-->
+### Databricks Certified Associate Data Engineer
+
+I am proud to share that I have successfully cleared the [Databricks Certified Associate Data Engineer](https://credentials.databricks.com/d9a3e90d-ea80-4b86-b7e2-4b2c981eed26#acc.dgFG2Z6c) exam. You can check out the certificate below:
+
+![Databricks Certification](https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf)
+
+I will also be working on exciting projects and sharing them soon!
 
 ## 💼 Skills & Expertise
 With a strong background in both data engineering and cloud technologies, here are the areas where I excel:
