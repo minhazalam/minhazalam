@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m a **Data Engineer** who is passionate about transfor
 
 I am proud to share that I have successfully cleared the [Databricks Certified Associate Data Engineer](https://credentials.databricks.com/d9a3e90d-ea80-4b86-b7e2-4b2c981eed26#acc.dgFG2Z6c) exam. You can check out the certificate below:
 
-![Databricks Certification](https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf)
+[Certificate](https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf)
 
 I will also be working on exciting projects and sharing them soon!
 
@@ -26,20 +26,18 @@ With a strong background in both data engineering and cloud technologies, here a
 - **Big Data & Distributed Systems**: Databricks, Apache Spark
 - **Cloud Platforms**: Microsoft Azure
 - **Scheduling & Orchestration**: Control-M, Apache Airflow
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, Snowflake
+- **Data Transformation**: dbt (Data Build Tool)
+
+## 📂 Projects
+- **Data Transformation with dbt and Snowflake**: Built a robust data pipeline leveraging dbt and Snowflake to transform raw data into analytics-ready datasets. [Repository](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline)
+
 <!--
 ## 💡 Projects & Experience
 I’ve worked on numerous projects ranging from data warehouse architecture to real-time data processing using cloud platforms. My goal is always to design solutions that scale with the needs of the business while maintaining a high standard of performance and reliability.-->
 
-<!--
-## 📂 Projects
-- Project Name: Description goes here. [GitHub Repository](https://github.com/minhazalam/project-repo)
-- More projects will be added here when completed.
-
--->
-
 ## 📈 GitHub Profile Stats
-![Profile views](https://komarev.com/ghpvc/?username=minhazalam&color=blue&style=flat-square)  
+![Profile views](https://komarev.com/ghpvc/?username=minhazalam&color=blue&style=flat-square)
 *Visitors to my GitHub profile!*
 <!--
 ## 🌐 Get In Touch
@@ -60,3 +58,5 @@ Here’s a snapshot of the technologies I love working with:
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![Control-M](https://img.shields.io/badge/Control--M-0033A0?style=flat&logo=control-m&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
