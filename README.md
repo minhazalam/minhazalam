@@ -30,6 +30,10 @@ With a strong background in both data engineering and cloud technologies, here a
 - **Data Transformation**: dbt (Data Build Tool)
 
 ## 📂 Projects
+**Stackgen** is a developer-first CLI tool to **bootstrap production-ready data engineering projects** in seconds.
+Build batch, streaming, or full data pipelines with a single command.
+[Repository](https://github.com/minhazalam/stackgen)
+
 - **Data Transformation with dbt and Snowflake**: Built a robust data pipeline leveraging dbt and Snowflake to transform raw data into analytics-ready datasets. [Repository](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline)
 
 <!--
