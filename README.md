@@ -1,66 +1,144 @@
-# Hi, I'm Minhaz Alam! 👋
+# Hi, I'm Minhaz Alam 👋
 
-Welcome to my GitHub! I’m a **Data Engineer** who is passionate about transforming raw data into valuable insights that drive decision-making. My expertise lies in designing and building scalable data pipelines, leveraging cutting-edge technologies to empower organizations to make data-driven decisions.
+**Data Engineer** passionate about building scalable, production-grade data platforms using modern data engineering technologies.
+
+I enjoy designing reliable batch and real-time data pipelines, solving distributed data processing problems, and continuously improving my understanding of data platform architecture.
+
+---
 
 ## 🚀 About Me
-- **Name**: Minhaz Alam
-- **Email**: [minhazalam365@gmail.com](mailto:minhazalam365@gmail.com)
-- **Location**: Dharamshala, Himachal Pradesh, India
-- **Passion**: Empowering businesses through robust data solutions and cloud technologies.
-- **Current Role**: Data Engineer with hands-on experience in data architecture, ETL processes, and cloud platforms.
 
-## 🎯 Certifications
-<!--I am currently working on getting certified in **Databricks Data Engineer Associate** to further sharpen my skills and stay updated with modern data engineering practices.-->
-### Databricks Certified Associate Data Engineer
+- 💼 Data Engineer with experience building enterprise data solutions.
+- 🧠 Currently focused on mastering modern Data Engineering from first principles.
+- 🏗️ Building an enterprise-grade Data Platform inspired by real-world product companies.
+- 🎯 Targeting Data Engineering roles at top product-based companies.
 
-I am proud to share that I have successfully cleared the [Databricks Certified Associate Data Engineer](https://credentials.databricks.com/d9a3e90d-ea80-4b86-b7e2-4b2c981eed26#acc.dgFG2Z6c) exam. You can check out the certificate below:
+---
 
-[Certificate](https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf)
+## 🛠️ Core Technologies
 
-I will also be working on exciting projects and sharing them soon!
+### Languages
+- Python
+- SQL
 
-## 💼 Skills & Expertise
-With a strong background in both data engineering and cloud technologies, here are the areas where I excel:
-- **Programming Languages**: Python, PySpark, SQL
-- **Data Virtualization**: Denodo
-- **Big Data & Distributed Systems**: Databricks, Apache Spark
-- **Cloud Platforms**: Microsoft Azure
-- **Scheduling & Orchestration**: Control-M, Apache Airflow
-- **Databases**: PostgreSQL, MySQL, Snowflake
-- **Data Transformation**: dbt (Data Build Tool)
+### Big Data
+- Apache Spark (PySpark)
+- Databricks
 
-## 📂 Projects
-**Stackgen** is a developer-first CLI tool to **bootstrap production-ready data engineering projects** in seconds.
-Build batch, streaming, or full data pipelines with a single command.
-[Repository](https://github.com/minhazalam/stackgen)
+### Data Engineering
+- dbt
+- Apache Airflow
+- Delta Lake
+- ETL / ELT
 
-- **Data Transformation with dbt and Snowflake**: Built a robust data pipeline leveraging dbt and Snowflake to transform raw data into analytics-ready datasets. [Repository](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline)
+### Databases
+- PostgreSQL
+- Snowflake
+- MySQL
 
-<!--
-## 💡 Projects & Experience
-I’ve worked on numerous projects ranging from data warehouse architecture to real-time data processing using cloud platforms. My goal is always to design solutions that scale with the needs of the business while maintaining a high standard of performance and reliability.-->
+### Cloud
+- AWS (Learning)
+- Microsoft Azure
 
-## 📈 GitHub Profile Stats
-![Profile views](https://komarev.com/ghpvc/?username=minhazalam&color=blue&style=flat-square)
-*Visitors to my GitHub profile!*
-<!--
-## 🌐 Get In Touch
-Feel free to connect with me or explore collaboration opportunities:-->
-## 🌟 Availability
-I am available for **full-time**, **part-time**, or **freelance** **remote** data engineering roles. If you're looking for a dedicated professional with a passion for data and cloud technologies, feel free to reach out to me at:
-- 📧 Email: [minhazalam365@gmail.com](mailto:minhazalam365@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alam)
+### Version Control & DevOps
+- Git
+- GitHub
+- Docker (Learning)
 
-## 🛠️ Technologies & Tools
-Here’s a snapshot of the technologies I love working with:
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Denodo](https://img.shields.io/badge/Denodo-505759?style=flat&logo=denodo&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E25A1C?style=flat&logo=databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![Control-M](https://img.shields.io/badge/Control--M-0033A0?style=flat&logo=control-m&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+## 🚧 Currently Building
+
+### Enterprise Data Platform (Flagship Project)
+
+A production-inspired data platform that demonstrates modern data engineering concepts including:
+
+- Batch Data Pipelines
+- Real-time Streaming Pipelines
+- Lakehouse Architecture
+- Data Quality
+- CI/CD
+- System Design
+- AI-ready Data Architecture
+
+> 🚀 Coming Soon
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Python Internals
+- Apache Spark
+- Distributed Systems
+- Kafka
+- Airflow
+- Data Engineering System Design
+- Production Engineering
+- AWS
+- Modern Data Platform Architecture
+
+---
+
+## 🏆 Certifications
+
+### Databricks Certified Data Engineer Associate
+
+Credential:
+
+https://credentials.databricks.com/d9a3e90d-ea80-4b86-b7e2-4b2c981eed26#acc.dgFG2Z6c
+
+Certificate:
+
+https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 Stackgen
+
+Developer-first CLI to bootstrap production-ready data engineering projects.
+
+Repository:
+https://github.com/minhazalam/stackgen
+
+---
+
+### 📊 Snowflake Analytics Pipeline
+
+Analytics engineering project built using Snowflake and dbt.
+
+Repository:
+https://github.com/minhazalam/snowflake-dbt-analytics-pipeline
+
+---
+
+## 🌱 2026 Roadmap
+
+- ✅ Strengthen Computer Science fundamentals
+- ✅ Master Spark & Distributed Computing
+- ✅ Build Enterprise Data Platform
+- ✅ Learn Kafka & Streaming
+- ✅ Learn Airflow
+- ✅ Strengthen Data Engineering System Design
+- 🎯 Transition to a top product-based company
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm open to Data Engineering opportunities where I can work on modern data platforms, distributed systems, and large-scale data infrastructure.
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/alam
+- Email: minhazalam365@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I believe the best way to learn Data Engineering is by understanding **why** technologies exist before learning **how** to use them.
