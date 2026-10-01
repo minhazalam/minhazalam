@@ -4,51 +4,37 @@ Senior Data Engineer building reliable data platforms and distributed systems.
 
 [Portfolio](https://minhazalam.github.io/) · [LinkedIn](https://www.linkedin.com/in/alam) · [Email](mailto:minhazalam365@gmail.com)
 
-## Selected work
+**Selected work** · [StackGen](https://github.com/minhazalam/stackgen) · [Enterprise Data Platform](https://github.com/minhazalam/enterprise-data-platform) · [Snowflake + dbt analytics](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline)
 
-- [StackGen](https://github.com/minhazalam/stackgen) — CLI for bootstrapping data engineering projects.
-- [Enterprise Data Platform](https://github.com/minhazalam/enterprise-data-platform) — batch, streaming, lakehouse, and data quality examples.
-- [Snowflake and dbt analytics](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline) — analytics engineering project.
+**Focus** · Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
 
-## Focus
+**Certification** · [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/d9a3e90d-ea80-4b86-b7e2-4b2c981eed26#acc.dgFG2Z6c) · [Certificate PDF](https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf)
 
-Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
+---
 
 <!-- DE-PREP-DASHBOARD:START -->
-## 📚 Data Engineering preparation dashboard
+## 📊 Data Engineering preparation
 
-Tracked activity from 6 selected repositories · last 365 days · all times Asia/Kolkata
+> Commit activity across 6 selected repositories · 365 days · Asia/Kolkata. Activity indicates logged work, not skill or mastery.
 
-Activity reflects matching commits, not skill level or mastery.
+![Tracked commits: 0](https://img.shields.io/badge/0-tracked%20commits-2F81F7?style=for-the-badge)
+![Active days: 0](https://img.shields.io/badge/0-active%20days-238636?style=for-the-badge)
+![Current streak: 0 days](https://img.shields.io/badge/0%20days-current%20streak-BD561D?style=for-the-badge)
+![Last 30 days: 0 commits](https://img.shields.io/badge/0-last%2030%20days-8957E5?style=for-the-badge)
 
-| Measure | Progress |
-| --- | ---: |
-| Tracked commits | 0 |
-| Active preparation days | 0 |
-| Current streak | 0 days |
-| Commits in last 7 days | 0 |
-| Commits in last 30 days | 0 |
-| Prep / project commits | 0 / 0 |
+### Topic activity · last 365 days
 
-### Topic activity
+> 🐍 **Python**　0　░░░░░░░░  
+> 🧮 **SQL**　0　░░░░░░░░  
+> 🧩 **DSA**　0　░░░░░░░░  
+> ⚡ **PySpark**　0　░░░░░░░░  
+> 📨 **Kafka**　0　░░░░░░░░  
+> 🧱 **Databricks**　0　░░░░░░░░  
+> 🏗️ **System design**　0　░░░░░░░░
 
-| Topic | Last 365 days | Last 30 days |
-| --- | ---: | ---: |
-| python | 0 | 0 |
-| sql | 0 | 0 |
-| dsa | 0 | 0 |
-| pyspark | 0 | 0 |
-| kafka | 0 | 0 |
-| databricks | 0 | 0 |
-| system-design | 0 | 0 |
+*Bar length shows relative commit activity by topic, not proficiency.*
 
-### Recent tracked work
+### Recent work
 
-No matching commits yet. Use the format below in a tracked repository to start the dashboard.
-
-Commit format: `de(<topic>): [<prep|project>] <short description>` · [tracked repositories and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
+_No matching commits yet._ Start with `de(<topic>): [<prep|project>] <short description>` in a tracked repository. [Repositories and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
 <!-- DE-PREP-DASHBOARD:END -->
-
-## Certification
-
-[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/d9a3e90d-ea80-4b86-b7e2-4b2c981eed26#acc.dgFG2Z6c) · [Certificate PDF](https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf)
