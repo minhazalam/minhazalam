@@ -123,9 +123,9 @@ def build_markdown(config):
 
 
     lines = [
-        "## 📊 Data Engineering preparation",
+        "## 📊 Data Engineering prep",
         "",
-        f"> Commit activity across {len(repository_names)} selected repositories · last {config['window_days']} days · {config['timezone']}. Activity indicates logged work, not skill or mastery.",
+        f"> Matched commits · {len(repository_names)} repos · rolling {config['window_days']} days · {config['timezone']}. Counts show activity, not proficiency.",
         "",
         " ".join([
             badge("Commits", len(commits), "2F81F7"),
@@ -134,7 +134,7 @@ def build_markdown(config):
             badge("Last 30 days", last_30, "8957E5"),
         ]),
         "",
-        f"### Topic activity · last {config['window_days']} days",
+        "",
         "",
     ]
     topic_colors = {
@@ -152,7 +152,7 @@ def build_markdown(config):
     ))
     lines.extend([
         "",
-        "*Topic counts are matching commits, not proficiency.*",
+        "",
         "",
         "### Recent work",
         "",
@@ -168,11 +168,11 @@ def build_markdown(config):
                 f"{work} · [{commit['repository']}]({repo_url})"
             )
     else:
-        lines.append("_No matching commits yet._ Start with the format below in a tracked repository.")
+        lines.append("_No matching commits yet._")
     lines.extend([
         "",
-        "Commit format: `de(python): [prep] solve two sum with hash map` · "
-        f"[repositories and setup](https://github.com/{owner}/{owner}/tree/main/de-prep)",
+        "Format: `de(<topic>): [<prep|project>] <description>` · "
+        f"[setup](https://github.com/{owner}/{owner}/tree/main/de-prep)",
     ])
     return "\n".join(lines)
 
