@@ -30,5 +30,5 @@ Senior Data Engineer building reliable data platforms and distributed systems.
 
 _No matching commits yet._ Start with the format below in a tracked repository.
 
-Commit format: de(<topic>): [<prep|project>] <short description> · [repositories and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
+Commit format: `de(python): [prep] solve two sum with hash map` · [repositories and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
 <!-- DE-PREP-DASHBOARD:END -->
