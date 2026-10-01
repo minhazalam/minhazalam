@@ -14,41 +14,28 @@ Senior Data Engineer building reliable data platforms and distributed systems.
 
 Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
 
-<!-- DE-PREP-DASHBOARD:START -->
-## 📚 Data Engineering preparation dashboard
-
-Tracked activity from 6 selected repositories · last 365 days · all times Asia/Kolkata
-
-Activity reflects matching commits, not skill level or mastery.
-
-| Measure | Progress |
-| --- | ---: |
-| Tracked commits | 0 |
-| Active preparation days | 0 |
-| Current streak | 0 days |
-| Commits in last 7 days | 0 |
-| Commits in last 30 days | 0 |
-| Prep / project commits | 0 / 0 |
-
-### Topic activity
-
-| Topic | Last 365 days | Last 30 days |
-| --- | ---: | ---: |
-| python | 0 | 0 |
-| sql | 0 | 0 |
-| dsa | 0 | 0 |
-| pyspark | 0 | 0 |
-| kafka | 0 | 0 |
-| databricks | 0 | 0 |
-| system-design | 0 | 0 |
-
-### Recent tracked work
-
-No matching commits yet. Use the format below in a tracked repository to start the dashboard.
-
-Commit format: `de(<topic>): [<prep|project>] <short description>` · [tracked repositories and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
-<!-- DE-PREP-DASHBOARD:END -->
-
 ## Certification
 
 [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/d9a3e90d-ea80-4b86-b7e2-4b2c981eed26#acc.dgFG2Z6c) · [Certificate PDF](https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf)
+
+---
+
+<!-- DE-PREP-DASHBOARD:START -->
+## 📊 Data Engineering preparation
+
+> Commit activity across 6 selected repositories · 365 days · Asia/Kolkata. Activity indicates logged work, not skill or mastery.
+
+![Commits: 0](https://img.shields.io/badge/Commits-0-2F81F7?style=flat-square) ![Active days: 0](https://img.shields.io/badge/Active%20days-0-238636?style=flat-square) ![Streak: 0 days](https://img.shields.io/badge/Streak-0%20days-BD561D?style=flat-square) ![Last 30 days: 0](https://img.shields.io/badge/Last%2030%20days-0-8957E5?style=flat-square)
+
+### Topic activity · last 365 days
+
+![Python: 0](https://img.shields.io/badge/Python-0-2F81F7?style=flat-square) ![SQL: 0](https://img.shields.io/badge/SQL-0-238636?style=flat-square) ![DSA: 0](https://img.shields.io/badge/DSA-0-8957E5?style=flat-square) ![PySpark: 0](https://img.shields.io/badge/PySpark-0-BD561D?style=flat-square) ![Kafka: 0](https://img.shields.io/badge/Kafka-0-0E8A16?style=flat-square) ![Databricks: 0](https://img.shields.io/badge/Databricks-0-E36209?style=flat-square) ![System%20design: 0](https://img.shields.io/badge/System%20design-0-8250DF?style=flat-square)
+
+*Topic counts are matching commits, not proficiency.*
+
+### Recent work
+
+_No matching commits yet._ Start with the format below in a tracked repository.
+
+Commit format: de(python): [prep] solve two sum with hash map · [repositories and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
+<!-- DE-PREP-DASHBOARD:END -->
