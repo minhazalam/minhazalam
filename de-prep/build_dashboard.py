@@ -163,7 +163,7 @@ def build_markdown(config):
         lines.append("_No matching commits yet._ Start with the format below in a tracked repository.")
     lines.extend([
         "",
-        "Commit format: de(<topic>): [<prep|project>] <short description> · "
+        "Commit format: `de(python): [prep] solve two sum with hash map` · "
         f"[repositories and setup](https://github.com/{owner}/{owner}/tree/main/de-prep)",
     ])
     return "\n".join(lines)
