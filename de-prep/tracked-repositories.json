@@ -1,0 +1,22 @@
+{
+  "username": "minhazalam",
+  "timezone": "Asia/Kolkata",
+  "window_days": 365,
+  "topics": [
+    "python",
+    "sql",
+    "dsa",
+    "pyspark",
+    "kafka",
+    "databricks",
+    "system-design"
+  ],
+  "repositories": [
+    "data-engineering-interview-prep",
+    "learn-dsa",
+    "SQL-Leetcode-Challenge",
+    "stackgen",
+    "enterprise-data-platform",
+    "snowflake-dbt-analytics-pipeline"
+  ]
+}

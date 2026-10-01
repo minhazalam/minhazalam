@@ -14,6 +14,18 @@ Senior Data Engineer building reliable data platforms and distributed systems.
 
 Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
 
+<!-- DE-PREP-DASHBOARD:START -->
+## 📚 Data Engineering preparation dashboard
+
+This dashboard updates daily from a short allowlist of preparation and data engineering project repositories. It counts strictly formatted commits as activity, not mastery.
+
+* Tracked subjects: Python, SQL, DSA, PySpark, Kafka, Databricks, and system design
+* Commit format: `de(<topic>): [<prep|project>] <short description>`
+* [Tracked repositories, policy, and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
+
+The first GitHub Actions run will populate the activity metrics.
+<!-- DE-PREP-DASHBOARD:END -->
+
 ## Certification
 
 [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/d9a3e90d-ea80-4b86-b7e2-4b2c981eed26#acc.dgFG2Z6c) · [Certificate PDF](https://github.com/minhazalam/certificates/blob/main/imol0tdv_1741602421664.pdf)
