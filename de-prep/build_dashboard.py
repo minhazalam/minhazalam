@@ -120,7 +120,7 @@ def build_markdown(config):
     topic_total = Counter(commit["topic"] for commit in commits)
     activity_total = Counter(commit["activity"] for commit in commits)
     topics = config["topics"]
-    max_topic = max((topic_total[topic] for topic in topics), default=0)
+
 
     lines = [
         "## 📊 Data Engineering preparation",
@@ -137,14 +137,22 @@ def build_markdown(config):
         f"### Topic activity · last {config['window_days']} days",
         "",
     ]
-    for topic in topics:
-        icon, label = TOPIC_DISPLAY[topic]
-        filled = round(8 * topic_total[topic] / max_topic) if max_topic else 0
-        bar = "■" * filled + "□" * (8 - filled)
-        lines.append(f"- {icon} **{label}** · {topic_total[topic]} · {bar}")
+    topic_colors = {
+        "python": "2F81F7",
+        "sql": "238636",
+        "dsa": "8957E5",
+        "pyspark": "BD561D",
+        "kafka": "0E8A16",
+        "databricks": "E36209",
+        "system-design": "8250DF",
+    }
+    lines.append(" ".join(
+        badge(TOPIC_DISPLAY[topic][1], topic_total[topic], topic_colors[topic])
+        for topic in topics
+    ))
     lines.extend([
         "",
-        "*Bars show relative commit activity by topic, not proficiency.*",
+        "*Topic counts are matching commits, not proficiency.*",
         "",
         "### Recent work",
         "",
