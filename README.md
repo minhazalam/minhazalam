@@ -17,13 +17,36 @@ Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
 <!-- DE-PREP-DASHBOARD:START -->
 ## 📚 Data Engineering preparation dashboard
 
-This dashboard updates daily from a short allowlist of preparation and data engineering project repositories. It counts strictly formatted commits as activity, not mastery.
+Tracked activity from 6 selected repositories · last 365 days · all times Asia/Kolkata
 
-* Tracked subjects: Python, SQL, DSA, PySpark, Kafka, Databricks, and system design
-* Commit format: `de(<topic>): [<prep|project>] <short description>`
-* [Tracked repositories, policy, and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
+Activity reflects matching commits, not skill level or mastery.
 
-The first GitHub Actions run will populate the activity metrics.
+| Measure | Progress |
+| --- | ---: |
+| Tracked commits | 0 |
+| Active preparation days | 0 |
+| Current streak | 0 days |
+| Commits in last 7 days | 0 |
+| Commits in last 30 days | 0 |
+| Prep / project commits | 0 / 0 |
+
+### Topic activity
+
+| Topic | Last 365 days | Last 30 days |
+| --- | ---: | ---: |
+| python | 0 | 0 |
+| sql | 0 | 0 |
+| dsa | 0 | 0 |
+| pyspark | 0 | 0 |
+| kafka | 0 | 0 |
+| databricks | 0 | 0 |
+| system-design | 0 | 0 |
+
+### Recent tracked work
+
+No matching commits yet. Use the format below in a tracked repository to start the dashboard.
+
+Commit format: `de(<topic>): [<prep|project>] <short description>` · [tracked repositories and setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
 <!-- DE-PREP-DASHBOARD:END -->
 
 ## Certification
