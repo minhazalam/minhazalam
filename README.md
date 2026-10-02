@@ -25,17 +25,19 @@ Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
 
 > Matched commits · 6 repos · rolling 365 days · Asia/Kolkata. Counts show activity, not proficiency.
 
-![Commits: 0](https://img.shields.io/badge/Commits-0-2F81F7?style=flat-square) ![Active days: 0](https://img.shields.io/badge/Active%20days-0-238636?style=flat-square) ![Streak: 0 days](https://img.shields.io/badge/Streak-0%20days-BD561D?style=flat-square) ![Last 30 days: 0](https://img.shields.io/badge/Last%2030%20days-0-8957E5?style=flat-square)
+![Commits: 3](https://img.shields.io/badge/Commits-3-2F81F7?style=flat-square) ![Active days: 1](https://img.shields.io/badge/Active%20days-1-238636?style=flat-square) ![Streak: 1 days](https://img.shields.io/badge/Streak-1%20days-BD561D?style=flat-square) ![Last 30 days: 3](https://img.shields.io/badge/Last%2030%20days-3-8957E5?style=flat-square)
 
 
 
-![Python: 0](https://img.shields.io/badge/Python-0-2F81F7?style=flat-square) ![SQL: 0](https://img.shields.io/badge/SQL-0-238636?style=flat-square) ![DSA: 0](https://img.shields.io/badge/DSA-0-8957E5?style=flat-square) ![PySpark: 0](https://img.shields.io/badge/PySpark-0-BD561D?style=flat-square) ![Kafka: 0](https://img.shields.io/badge/Kafka-0-0E8A16?style=flat-square) ![Databricks: 0](https://img.shields.io/badge/Databricks-0-E36209?style=flat-square) ![System design: 0](https://img.shields.io/badge/System%20design-0-8250DF?style=flat-square)
+![Python: 0](https://img.shields.io/badge/Python-0-2F81F7?style=flat-square) ![SQL: 2](https://img.shields.io/badge/SQL-2-238636?style=flat-square) ![DSA: 0](https://img.shields.io/badge/DSA-0-8957E5?style=flat-square) ![PySpark: 0](https://img.shields.io/badge/PySpark-0-BD561D?style=flat-square) ![Kafka: 0](https://img.shields.io/badge/Kafka-0-0E8A16?style=flat-square) ![Databricks: 0](https://img.shields.io/badge/Databricks-0-E36209?style=flat-square) ![System design: 1](https://img.shields.io/badge/System%20design-1-8250DF?style=flat-square)
 
 
 
 ### Recent work
 
-_No matching commits yet._
+- **2026-10-02 · System design · project** — [use full shared policy revision](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline/commit/f66db267478c889f0305d4cae7e55555f0f24ed3) · [snowflake-dbt-analytics-pipeline](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline)
+- **2026-10-02 · SQL · project** — [pin the shared commit validator](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline/commit/2b0d7b8da0fda82b2836420da2e0cbd5feb10519) · [snowflake-dbt-analytics-pipeline](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline)
+- **2026-10-02 · SQL · project** — [add shared DE commit policy check](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline/commit/638cbb9ccacd96548335862799f36ca45e620e66) · [snowflake-dbt-analytics-pipeline](https://github.com/minhazalam/snowflake-dbt-analytics-pipeline)
 
 Format: `de(<topic>): [<prep|project>] <description>` · [setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
 <!-- DE-PREP-DASHBOARD:END -->
