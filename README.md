@@ -25,7 +25,7 @@ Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
 
 > Matched commits · 6 repos · rolling 365 days · Asia/Kolkata. Counts show activity, not proficiency.
 
-![Commits: 3](https://img.shields.io/badge/Commits-3-2F81F7?style=flat-square) ![Active days: 1](https://img.shields.io/badge/Active%20days-1-238636?style=flat-square) ![Streak: 0 days](https://img.shields.io/badge/Streak-0%20days-BD561D?style=flat-square) ![Last 30 days: 3](https://img.shields.io/badge/Last%2030%20days-3-8957E5?style=flat-square)
+![Commits: 3](https://img.shields.io/badge/Commits-3-2F81F7?style=flat-square) ![Active days: 1](https://img.shields.io/badge/Active%20days-1-238636?style=flat-square) ![Streak: 0 days](https://img.shields.io/badge/Streak-0%20days-BD561D?style=flat-square) ![Last 30 days: 0](https://img.shields.io/badge/Last%2030%20days-0-8957E5?style=flat-square)
 
 
 
