@@ -42,4 +42,4 @@ Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
 
 Format: `de(<topic>): [<prep|project>] <description>` · [setup](https://github.com/minhazalam/minhazalam/tree/main/de-prep)
 <!-- DE-PREP-DASHBOARD:END -->
--->
+
