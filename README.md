@@ -21,7 +21,6 @@ Python · SQL · Spark / PySpark · Databricks · dbt · Snowflake · AWS
 ---
 
 <!-- DE-PREP-DASHBOARD:START -->
-<!--
 ## 📊 Data Engineering prep
 
 > Matched commits · 6 repos · rolling 365 days · Asia/Kolkata. Counts show activity, not proficiency.
